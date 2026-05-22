@@ -64,6 +64,30 @@ iframe {
   width: 440; 
   height: 757;
   style: border: 0px; 
-  width: 960;
-  height: 569;
 }
+
+.aboutMe{
+  width: 400px;
+  height: 300px;
+  display: flex;
+  justify-content: center;
+}
+.bestWork{
+  width: 400px;
+  height: 300px;
+  display: flex;
+  justify-content: center;
+}
+.future{
+  width: 400px;
+  height: 300px;
+  display: flex;
+  justify-content: center;
+}
+.growth{
+  width: 400px;
+  height: 300px;
+  display: flex;
+  justify-content: center;
+}
+
