@@ -49,11 +49,11 @@ ul.nav li a:hover {
   background-color: pink;
 }
 
-/* FIXED IFRAME STYLES */
 
-.aboutMe,
+/* .aboutMe,
 .bestWork,
-.future,
+.future, */
+
 .growth {
   display: block;
   margin: 20px auto;
@@ -61,8 +61,8 @@ ul.nav li a:hover {
 }
 
 .aboutMe {
-  width: 440px;
-  height: 757px;
+  width: 392px;
+  height: 620px; 
 }
 
 .bestWork {
@@ -79,4 +79,7 @@ ul.nav li a:hover {
   width: 392px;
   height: 620px;
 }
-}
+
+
+
+
