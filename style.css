@@ -48,23 +48,8 @@ ul.nav li a {
 ul.nav li a:hover {
   background-color: pink;
 }
-
- width="500" 
- height="600"
-
-iframe {
-  display: block;
-  margin: 20px auto;
-  width: 392;
-  height: 620; 
-  style: border: 0px;
-  width: 392;
-  height: 620;
-  style: border: 0px;
-  width: 440; 
-  height: 757;
-  style: border: 0px; 
-}
+ border: 0px; 
+} 
 
 .aboutMe{
   width: 400px;
@@ -90,4 +75,3 @@ iframe {
   display: flex;
   justify-content: center;
 }
-
