@@ -52,14 +52,14 @@ ul.nav li a:hover {
 } 
 
 .aboutMe{
-  width: 400px;
-  height: 300px;
+  width: 392px;
+  height: 620px;
   display: flex;
   justify-content: center;
 }
 .bestWork{
-  width: 400px;
-  height: 300px;
+  width: 440px;
+  height: 757px;
   display: flex;
   justify-content: center;
 }
@@ -70,8 +70,8 @@ ul.nav li a:hover {
   justify-content: center;
 }
 .growth{
-  width: 400px;
-  height: 300px;
+  width: 392px;
+  height: 620px;
   display: flex;
   justify-content: center;
 }
