@@ -49,37 +49,42 @@ ul.nav li a:hover {
   background-color: pink;
 }
 
-
 /* .aboutMe,
 .bestWork,
 .future, */
 
-.growth {
+
+
+
+.aboutMe {
+  width: 392px;
+  height: 620px; 
   display: block;
   margin: 20px auto;
   border: 0;
 }
 
-.aboutMe {
-  width: 392px;
-  height: 620px; 
-}
-
 .bestWork {
   width: 440px;
   height: 757px;
+  display: block;
+  margin: 20px auto;
+  border: 0;
 }
 
 .future {
   width: 400px;
   height: 300px;
+  display: block;
+  margin: 20px auto;
+  border: 0;
 }
 
 .growth {
   width: 392px;
   height: 620px;
+  display: block;
+  margin: 20px auto;
+  border: 0;
 }
-
-
-
 
