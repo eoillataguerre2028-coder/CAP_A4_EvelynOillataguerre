@@ -48,30 +48,35 @@ ul.nav li a {
 ul.nav li a:hover {
   background-color: pink;
 }
- border: 0px; 
-} 
 
-.aboutMe{
+/* FIXED IFRAME STYLES */
+
+.aboutMe,
+.bestWork,
+.future,
+.growth {
+  display: block;
+  margin: 20px auto;
+  border: 0;
+}
+
+.aboutMe {
   width: 440px;
   height: 757px;
-  display: flex;
-  justify-content: center;
 }
-.bestWork{
+
+.bestWork {
   width: 440px;
   height: 757px;
-  display: flex;
-  justify-content: center;
 }
-.future{
+
+.future {
   width: 400px;
   height: 300px;
-  display: flex;
-  justify-content: center;
 }
-.growth{
+
+.growth {
   width: 392px;
   height: 620px;
-  display: flex;
-  justify-content: center;
+}
 }
