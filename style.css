@@ -49,11 +49,12 @@ ul.nav li a:hover {
   background-color: pink;
 }
 
-/* .aboutMe,
-.bestWork,
-.future, */
-
-
+.me {
+  width: 200px;
+  height: auto;
+  display: block;
+  margin: 20px auto;
+}
 
 
 .aboutMe {
